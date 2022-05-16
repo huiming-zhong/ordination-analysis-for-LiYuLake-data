@@ -1,0 +1,43 @@
+	Boiga kraepelini	Buergeria otai	Bufo bankorensis	Bungarus multicinctus	Cyclophiops major	Deinagkistrodon acutus	Diploderma swinhonis	Duttaphrynus melanostictus	Eutropis longicaudata	Fejervarya limnocharis	Gekko hokouensis	Hemidactylus frenatus	Hylarana latouchii	Kurixalus berylliniris	Lycodon rufozonatus	Mauremys sinensis	Microhyla fissipes	Nidirana adenopleura	Odorrana swinhoana	Pelodiscus sinensis	Plestiodon leucostictus	Polypedates braueri	Protobothrops mucrosquamatus	Ramphotyphlops braminus	Sphenomorphus indicus	Sylvirana guentheri	Trachemys scripta elegans	Trimeresurus stejnegeri	Zhangixalus moltrechti
+E1_2019_F			5					5			8		5	5					3				1						5
+E1_2019_S		17						16		2	1		19					2	10		1							1	7
+E1_2020_F			2				1	2			6	7	13					1				4				2			
+E1_2020_S		3	3					12		5	2	2	25	3				1	9			1				1		1	9
+E1_2021_F							15				19	11	1	4					3						1				2
+E1_2021_S					1		6	3			3	5	14	36					4			4							22
+E1_2022_S			2				1	1		1	6	1	12	27					3										9
+E2_2019_F			2		1			4		1	8			5					3										4
+E2_2019_S								2			2			2					4										
+E2_2020_F							2	5			14			9					15										11
+E2_2020_S							2	13		7	11			5				1	9										
+E2_2021_F			1				6				6			3					13										2
+E2_2021_S			3		1		4	1			13	2		35					9							1			13
+E2_2022_S	1		1								6		1	10					8										6
+E3_2019_F							5	1		1									2										
+E3_2019_S			1				1															6				4			
+E3_2020_F								1						1								1							
+E3_2020_S		3						8		7		2	6	2				1	3			4				1			5
+E3_2021_F					1		8	1		2	4	4		5					4			1							1
+E3_2021_S			1	1	1		2	1	1	1	3	3	2	15					7							1			2
+E3_2022_S													13	11				3	22										7
+W1_2019_F						1		9																					
+W1_2019_S								8		9																8			
+W1_2020_F					1			7		1						5										1	3		
+W1_2020_S								12		7		4	4									1				10			
+W1_2021_F								2		1		10				4										6	13		
+W1_2021_S								18		9	1	9	3					2								11	19		
+W1_2022_S								4		2		7	5			2		2		1		11				6	20		
+W2_2019_F			1					18				14	1																
+W2_2019_S								28			1	12	2																
+W2_2020_F								25				5																	
+W2_2020_S								19		2	7	3	1																2
+W2_2021_F							5	2		1	1	20																	
+W2_2021_S		4					11	8		1	6	13	2		1			1						1					7
+W2_2022_S			1				7	1				10																	
+W3_2019_F			1					20				8											1						2
+W3_2019_S								14																					
+W3_2020_F								1				25	2									1							4
+W3_2020_S								1				16																	2
+W3_2021_F							1	1		2		3					2					1							2
+W3_2021_S							2	8		6		7	4	4	1			3				5				1			4
+W3_2022_S								1				10	9	2				3				5				3			5
